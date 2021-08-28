@@ -1,0 +1,5 @@
+lib/app/modules/daily_mewsletter/daily_mewsletter_module.dart
+lib/app/modules/daily_mewsletter/daily_mewsletter_page.dart
+test/app/modules/daily_mewsletter/daily_mewsletter_page_test.dart
+lib/app/modules/daily_mewsletter/daily_mewsletter_controller.dart
+test/app/modules/daily_mewsletter/daily_mewsletter_controller_test.dart

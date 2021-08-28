@@ -1,0 +1,4 @@
+lib/app/modules/home/pages/daily_news_latter/daily_news_latter_page.dart
+test/app/modules/home/pages/daily_news_latter/daily_news_latter_page_test.dart
+lib/app/modules/home/pages/daily_news_latter/daily_news_latter_controller.dart
+test/app/modules/home/pages/daily_news_latter/daily_news_latter_controller_test.dart

@@ -1,0 +1,4 @@
+lib/app/modules/analisy/pages/fever/fever_page.dart
+test/app/modules/analisy/pages/fever/fever_page_test.dart
+lib/app/modules/analisy/pages/fever/fever_controller.dart
+test/app/modules/analisy/pages/fever/fever_controller_test.dart

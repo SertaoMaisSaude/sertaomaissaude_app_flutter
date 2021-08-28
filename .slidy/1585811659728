@@ -1,0 +1,4 @@
+lib/app/modules/analisy/pages/comorbidities/comorbidities_page.dart
+test/app/modules/analisy/pages/comorbidities/comorbidities_page_test.dart
+lib/app/modules/analisy/pages/comorbidities/comorbidities_controller.dart
+test/app/modules/analisy/pages/comorbidities/comorbidities_controller_test.dart
